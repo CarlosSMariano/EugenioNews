@@ -1,1 +1,0 @@
-<?php DASH::alert('inva', ' VOCÊ NÃO TEM PERMISSÃO PARA ACESSAR ESSA PÁGINA') ?>
